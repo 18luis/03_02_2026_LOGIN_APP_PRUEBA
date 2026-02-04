@@ -15,9 +15,16 @@ Está pensado como base para proyectos más grandes (microservicios, roles, segu
 root/
 ├── backend/        # API en NestJS
 └── frontend/       # Aplicación React
+docker-compose.yml  # Archivo para levantar MongoDB fácilmente usando Docker
 ```
 
 ---
+
+🔧 Requisitos
+
+Node.js (v18 o superior recomendado)
+MongoDB corriendo localmente
+NestJS CLI
 
 ## 🚀 Backend (NestJS)
 
@@ -27,6 +34,7 @@ root/
 * MongoDB
 * Mongoose
 * bcrypt
+* Docker
 
 ---
 
