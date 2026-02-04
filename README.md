@@ -30,6 +30,12 @@ root/
 
 ---
 
+### ▶️ Instalar dependencias
+
+```bash
+npm i
+```
+
 ### ▶️ Ejecutar el backend
 
 ```bash
@@ -52,6 +58,12 @@ http://localhost:4000
 * Axios
 
 ---
+
+### ▶️ Instalar dependencias
+
+```bash
+npm i
+```
 
 ### ▶️ Ejecutar el frontend
 
