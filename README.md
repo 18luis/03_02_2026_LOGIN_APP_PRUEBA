@@ -26,8 +26,6 @@ docker-compose.yml  # Archivo para levantar MongoDB fácilmente usando Docker
 
 * MongoDB corriendo localmente
 
-* NestJS CLI
-
 ## 🚀 Backend (NestJS)
 
 ### 📌 Tecnologías usadas
