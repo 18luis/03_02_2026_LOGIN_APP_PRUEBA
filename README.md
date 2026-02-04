@@ -22,9 +22,11 @@ docker-compose.yml  # Archivo para levantar MongoDB fácilmente usando Docker
 
 🔧 Requisitos
 
-Node.js (v18 o superior recomendado)
-MongoDB corriendo localmente
-NestJS CLI
+* Node.js (v18 o superior recomendado)
+
+* MongoDB corriendo localmente
+
+* NestJS CLI
 
 ## 🚀 Backend (NestJS)
 
